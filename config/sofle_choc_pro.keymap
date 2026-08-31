@@ -61,9 +61,9 @@
 
             bindings = <
 &trans           &kp F1             &kp F2            &kp F3      &kp F4       &kp F5                            &kp F6    &kp F7                &kp F8                 &kp F9     &kp F10   &kp F11
-&kp GRAVE        &kp N1             &kp N2            &kp N3      &kp N4       &kp N5         &kp N6                       &kp N7                &kp N8                 &kp N9     &kp PLUS  &kp ASTERISK
-&kp EXCLAMATION  &kp DOUBLE_QUOTES  &kp AT            &kp DOLLAR  &kp PERCENT  &kp AMPERSAND  &kp SLASH                    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL  &kp HASH  &kp SQT
-&trans           &kp LESS_THAN      &kp GREATER_THAN  &kp PLUS    &kp LBRC     &kp RBRC       &trans     &trans  &kp LBKT  &kp RBKT              &kp SEMI               &kp COLON  &kp BSLH  &trans
+&kp GRAVE        &kp N1             &kp N2            &kp N3      &kp N4       &kp N5         &kp N6                       &kp N7                &kp N8                 &kp N9     &kp RBKT  &kp LS(RBKT)
+&kp EXCLAMATION  &kp DOUBLE_QUOTES  &kp AT            &kp DOLLAR  &kp PERCENT  &kp AMPERSAND  &kp SLASH                    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL  &kp NUHS  &kp LS(NUHS)
+&trans           &kp NUBS           &kp LS(NUBS)      &kp PLUS    &kp LBRC     &kp RBRC       &trans     &trans  &kp LBKT  &kp RBKT              &kp SEMI               &kp COLON  &kp BSLH  &trans
                                     &trans            &trans      &trans       &trans         &trans     &trans  &trans    &trans                &trans                 &trans
             >;
         };
